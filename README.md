@@ -1,3 +1,5 @@
+### E-Commerce Analysis SQL project
+
 ## **I. INTRODUCTION**
 In this project, **_business performance of an e-commerce website_** was analyzed using **_SQL_** in **_Google BigQuery_**, with some advanced SQL techniques like **_window function_** and **_aggregate function_**. The analysis covered critical business aspects such as **_website traffic, customer behavior patterns, revenue generation, sales performance,_** and **_conversion optimization_**. The **_insights_** derived from this work provided **_support to the Sales and Marketing teams_**, enabling them to make informed, data-driven decisions.
 ## **II. DATASET**
